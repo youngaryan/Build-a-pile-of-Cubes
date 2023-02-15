@@ -1,0 +1,7 @@
+/**
+ * cube
+ */
+public class cube {
+
+    
+}
